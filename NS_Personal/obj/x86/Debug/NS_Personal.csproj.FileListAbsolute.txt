@@ -1,0 +1,14 @@
+C:\Users\Livia\Documents\NailScientist\NS_Personal\NS_Personal\obj\x86\Debug\NS_Personal.Properties.Resources.resources
+C:\Users\Livia\Documents\NailScientist\NS_Personal\NS_Personal\obj\x86\Debug\NS_Personal.csproj.GenerateResource.Cache
+C:\Users\Livia\Documents\NailScientist\NS_Personal\NS_Personal\obj\x86\Debug\NS_Personal.Forms.Teste.resources
+C:\Users\Livia\Documents\NailScientist\NS_Personal\NS_Personal\bin\Debug\NS_Personal.exe.config
+C:\Users\Livia\Documents\NailScientist\NS_Personal\NS_Personal\bin\Debug\NS_Personal.exe
+C:\Users\Livia\Documents\NailScientist\NS_Personal\NS_Personal\bin\Debug\NS_Personal.pdb
+C:\Users\Livia\Documents\NailScientist\NS_Personal\NS_Personal\obj\x86\Debug\NS_Personal.exe
+C:\Users\Livia\Documents\NailScientist\NS_Personal\NS_Personal\obj\x86\Debug\NS_Personal.pdb
+C:\Users\Livia\Documents\NailScientist\NS_Personal\NS_Personal\obj\x86\Debug\NS_Personal.Forms.NewBrand.resources
+C:\Users\Livia\Documents\NailScientist\NS_Personal\NS_Personal\bin\Debug\NS_Personal.exe.manifest
+C:\Users\Livia\Documents\NailScientist\NS_Personal\NS_Personal\bin\Debug\NS_Personal.application
+C:\Users\Livia\Documents\NailScientist\NS_Personal\NS_Personal\obj\x86\Debug\NS_Personal.exe.manifest
+C:\Users\Livia\Documents\NailScientist\NS_Personal\NS_Personal\obj\x86\Debug\NS_Personal.application
+C:\Users\Livia\Documents\NailScientist\NS_Personal\NS_Personal\obj\x86\Debug\NS_Personal.Forms.NewFinish.resources
